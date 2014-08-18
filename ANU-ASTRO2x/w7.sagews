@@ -109,11 +109,10 @@ eq73b
 md = float(eq73b.rhs().coeffs()[0][0].n())
 print("Mirror diameter is {:.3f} meters".format(md))
 ︡22e49419-55fc-4556-b9c3-47786731d50e︡{"tex":{"tex":"\\theta = \\frac{\\lambda}{D}","display":true}}︡{"tex":{"tex":"D = \\frac{41}{300} \\, \\mathit{meter}","display":true}}︡{"stdout":"Mirror diameter is 0.137 meters\n"}︡
-︠17637368-bbb0-4ece-aea4-82f6e580042ei︠
-%md
+︠17637368-bbb0-4ece-aea4-82f6e580042e︠
+### The End
 
-## End
-︡a7cc368d-b50f-4d96-8059-f7973c286210︡{"md":"\n## End\n"}︡
+︡668983ba-4ef5-4ac3-ac36-5612062b6f0c︡
 ︠34971818-a5b9-44bc-b034-d117cbe31d25︠
 
 
